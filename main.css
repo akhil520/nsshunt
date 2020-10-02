@@ -1,0 +1,45 @@
+h1{
+    color:red;
+    
+}
+div img{
+    background-image: url('https://drive.google.com/uc?export=view&id=1ApLQKVQLaSsYQFOy6ScQsl9lSH-KVYX4');
+    display: block;
+		width:60%;
+		height:75%;
+}
+.con{
+    position: relative;
+    text-align:center ;
+}
+.gujrath{
+    color: black;
+    position: absolute;
+    top: 210px;
+    left: 200px;
+}
+.icon{
+    position: absolute;
+		width: 20px;
+		height:25px;
+
+}
+.mumbai{
+    color: black;
+    position: absolute;
+    top: 270px;
+    left: 250px;
+
+}
+.bihar{
+    color: black;
+    position: absolute;
+    top: 150px;
+    left: 550px;
+}
+.delhi{
+    color: black;
+    position: absolute;
+    top: 105px;
+    left: 350px;
+}
